@@ -1,0 +1,19 @@
+{
+    "name": "Melinda sari harahap/Tugas2-pln",
+    "description": "Tugas 2 Pemrograman Berbasis Web Lanjutan 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Melinda sari harahap",
+            "email": "melindaharahap07@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
